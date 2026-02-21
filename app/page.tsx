@@ -141,7 +141,7 @@ const highlights = [
 const contact = {
   phone: "9860901984",
   email: "khanalnamrata610@gmail.com",
-  linkedin: "https://linkedin.com/in/namratakhanal"
+  linkedin: "https://www.linkedin.com/in/namrata-khanal-3a2351161/"
 };
 
 const funFacts = [
@@ -323,7 +323,7 @@ export default function Home() {
               }`}
             >
               <LinkedinIcon className={`h-4 w-4 ${isDark ? "text-sky-300" : "text-sky-700"}`} />
-              <span>linkedin.com/in/namratakhanal</span>
+              <span>linkedin.com/in/namrata-khanal-3a2351161</span>
             </a>
             <span
               className={`inline-flex items-center gap-2 rounded-full border px-4 py-2 shadow-sm ${
@@ -476,4 +476,5 @@ export default function Home() {
     </main>
   );
 }
+
 
